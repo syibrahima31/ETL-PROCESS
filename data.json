@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nom": "Dupont",
+    "prenom": "Marie",
+    "age": 32,
+    "ville": "Paris"
+  },
+  {
+    "id": 2,
+    "nom": "Martin",
+    "prenom": "Pierre",
+    "age": 28,
+    "ville": "Lyon"
+  },
+  {
+    "id": 3,
+    "nom": "Leroy",
+    "prenom": "Sophie",
+    "age": 45,
+    "ville": "Marseille"
+  },
+  {
+    "id": 4,
+    "nom": "Roux",
+    "prenom": "Thomas",
+    "age": 22,
+    "ville": "Toulouse"
+  },
+  {
+    "id": 5,
+    "nom": "Girard",
+    "prenom": "Emma",
+    "age": 29,
+    "ville": "Bordeaux"
+  },
+  {
+    "id": 6,
+    "nom": "Leclerc",
+    "prenom": "Nicolas",
+    "age": 38,
+    "ville": "Lille"
+  },
+  {
+    "id": 7,
+    "nom": "Fournier",
+    "prenom": "Julie",
+    "age": 31,
+    "ville": "Nantes"
+  },
+  {
+    "id": 8,
+    "nom": "Moreau",
+    "prenom": "Alex",
+    "age": 40,
+    "ville": "Strasbourg"
+  },
+  {
+    "id": 9,
+    "nom": "Lefebvre",
+    "prenom": "Anna",
+    "age": 27,
+    "ville": "Rennes"
+  },
+  {
+    "id": 10,
+    "nom": "Petit",
+    "prenom": "Louis",
+    "age": 55,
+    "ville": "Nice"
+  }
+]
